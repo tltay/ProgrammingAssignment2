@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
     m<<-NULL
   }
   
-  ## get()a function to get the matrix elements
+  ## get() is a function to get the matrix elements
   ## x is return
   get<-function()x
   
